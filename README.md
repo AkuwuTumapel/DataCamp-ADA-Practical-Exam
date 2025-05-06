@@ -8,10 +8,10 @@ FoodYum is a US grocery store chain that sells food items such as baked goods, s
 The dataset given is a table from FoodYum's database, containing various attributes for each product on the catalogue. <br><br>
 
 ![image](https://github.com/user-attachments/assets/fc1a68ba-cd15-44fd-bc1c-61940ec7086a)
-<p align="center">Figure 1. Column names of the 'products' table and its criteria.</p>
+<p align="center">Figure 1. Data dictionary of the 'products' table columns.</p>
 
 ![image](https://github.com/user-attachments/assets/88022f26-c605-46f0-a942-68be4f2af5d5)
-<p align="center">Figure 2. Data dictionary of the 'products' table columns.</p>
+<p align="center">Figure 2. Column names of the 'products' table and its criteria.</p>
 
 ## Walkthrough
 
